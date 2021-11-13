@@ -1,3 +1,3 @@
 # Code-encrypt-decrypt
-Number Encryptiong and Decryption
-Very basic not professional
+Simple security program that takes in a code and encrypts/decrypts it
+
